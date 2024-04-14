@@ -1,0 +1,8 @@
+print("Welcome to Kanok Shop")
+print("----------------------")
+print("Apple",  3,"x",10,"THB=", 3*10)
+print("Milk",   1,"x",30,"THB=",1*30)
+print("Mango",  2,"x",20,"THB=",2*20)
+print("----------------------")
+print("Total=",(3*10)+(1*30)+(2*20),"THB")
+print("Thank You:", "Kanok Shop")
